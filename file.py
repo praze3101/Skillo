@@ -1,6 +1,6 @@
-from typing import List
 
-courses: List[str] = ['math', 'physics']
+#practicing lesson3 
+courses = ['math', 'physics']
 courses.insert(1, 'art')
 courses2 = ['sport', 'history']
 courses.extend(courses2)
